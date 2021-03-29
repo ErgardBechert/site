@@ -68,7 +68,7 @@ h1 {
 .list li {
   font-size: 18px;
   margin: 0px 0px 15px 0px;
-  background: url("/app/img/check icon.png") left no-repeat;
+  background: url("../img/check icon.png") left no-repeat;
   padding: 0px 0px 0px 30px;
 }
 
